@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: 1550px;
+    font-size: 10pt;
+    color: black;
+}
+fieldset, legend{
+    border: #fc00a8  groove 3px;
+    border-radius: 15px;
+    background-color: aliceblue;
+}
+p{
+    font-size: 10pt;
+    color: black;
+}
+h1{
+    text-shadow: 3px 2px #fc00a8;
+    color: white;
+}
+div#menu{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+    padding: 10px;
+}
+a.item:link, a.item:visited, a.item:active{
+    text-decoration: none;
+    font-size: 16pt;
+    color: white;
+    border: 2px solid #fc00a8;
+    padding: 5px;
+    background-color: black;
+}
+div#ki{
+    text-align: center;
+}
